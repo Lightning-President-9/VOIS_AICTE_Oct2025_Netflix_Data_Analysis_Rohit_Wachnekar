@@ -1,4 +1,4 @@
-# VOIS_AICTE_Oct2025_Netflix_Data_Analysis_Rohit_Wachnekar
+# VOIS_AICTE_Oct2025_MajorProject_Rohit_Wachnekar
 
 This project analyzes the Netflix dataset to uncover trends in its content library. The primary goal is to understand the distribution of movies versus TV shows, identify popular genres, and see which countries contribute the most content. The insights from this analysis are used to provide strategic recommendations for Netflix's future content acquisition and production strategy.
 
